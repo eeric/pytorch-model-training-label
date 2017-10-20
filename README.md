@@ -12,4 +12,5 @@ face features data by reader as well.
 4.Usage
 python train
 
-See details of this project
+See details of this project:http://blog.csdn.net/yyqq7226741/article/details/78292232
+
