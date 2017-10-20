@@ -1,4 +1,5 @@
 # pytorch-model-training-label
+Please read with 'Raw' mode.
 
 1.Loading dataset with label
 
