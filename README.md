@@ -3,9 +3,9 @@
 1.Loading dataset with label
 
 def reader(txt):
-    fh = open(txt)  
-    c=0  
-    imgs=[]  
+        fh = open(txt)  
+        c=0  
+        imgs=[]  
     class_names=[]  
     for line in  fh.readlines():  
         if c==0:  
